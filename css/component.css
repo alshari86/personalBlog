@@ -1,0 +1,21 @@
+.testplan-main {
+    color: blue;
+}
+
+.hd-link {
+    color: grey;
+    text-decoration: none;
+}
+
+.hd-link:hover {
+    color: black;
+}
+
+.hd-current {
+    color: rgb(160, 95, 153);
+}
+
+.list li{
+    padding-top: 1.2rem;
+    border-bottom: 2px solid #fff;
+}
